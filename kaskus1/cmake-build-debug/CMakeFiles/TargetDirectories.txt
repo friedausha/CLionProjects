@@ -1,0 +1,3 @@
+/home/frieda/CLionProjects/kaskus1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/frieda/CLionProjects/kaskus1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/frieda/CLionProjects/kaskus1/cmake-build-debug/CMakeFiles/kaskus1.dir

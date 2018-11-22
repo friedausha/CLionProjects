@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/warming_up_hology_1.dir/main.cpp.o  -o warming_up_hology_1 

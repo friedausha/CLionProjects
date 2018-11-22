@@ -1,0 +1,3 @@
+/home/frieda/CLionProjects/lagu apa ini/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/frieda/CLionProjects/lagu apa ini/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/frieda/CLionProjects/lagu apa ini/cmake-build-debug/CMakeFiles/lagu_apa_ini.dir

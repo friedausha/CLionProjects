@@ -1,0 +1,3 @@
+/home/frieda/CLionProjects/alin/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/frieda/CLionProjects/alin/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/frieda/CLionProjects/alin/cmake-build-debug/CMakeFiles/alin.dir

@@ -1,0 +1,3 @@
+/home/frieda/CLionProjects/warming up hology 4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/frieda/CLionProjects/warming up hology 4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/frieda/CLionProjects/warming up hology 4/cmake-build-debug/CMakeFiles/warming_up_hology_4.dir

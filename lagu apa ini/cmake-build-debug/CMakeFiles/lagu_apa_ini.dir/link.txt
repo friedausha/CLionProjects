@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/lagu_apa_ini.dir/main.cpp.o  -o lagu_apa_ini 

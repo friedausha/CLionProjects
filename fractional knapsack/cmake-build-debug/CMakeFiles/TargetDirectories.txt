@@ -1,0 +1,3 @@
+/home/frieda/CLionProjects/fractional knapsack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/frieda/CLionProjects/fractional knapsack/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/frieda/CLionProjects/fractional knapsack/cmake-build-debug/CMakeFiles/fractional_knapsack.dir
